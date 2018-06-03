@@ -1,0 +1,5 @@
+{
+      "isPassAppstore": false,
+      "versionAppstore": "1.0",
+      "versionSourceGame": "1.0"
+}
